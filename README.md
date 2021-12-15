@@ -1,27 +1,33 @@
-# Hi! 👋
-- 🧐 I’m a product guy, currently interested in crypto (especially creator coins)
-- ⛏ I’m working on a university research project (cooperation Stanford & TUM) on the benefits and challenges of independent musicians using creator coins
-- 💞️ I’m looking to collaborate with anybody interested in creator coins :)
+# Hello, brothers! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width=40px>
+
+My name is Luis Onuma. I'm 26, studying at TUM, and currently doing a research exchange at Stanford. I'm from Mexico, with 100% Japanese roots, and living in Munich since 2014. I’m looking to collaborate with anybody involved with creator coins :)
+
 - 📫 How to reach me: luis.onuma@tum.de
-- 🔗 How to connect with me: www.linkedin.com/in/luis-onuma
-
-### 🧐 About me
-
-I'm 26, studying at TUM, currently doing a research exchange at Stanford.
-Born and raised in Mexico, 100% Japanese roots, living in Munich since 2014.
+- 🔗 How to connect with me: www.linkedin.com/in/luis-onuma (pls include a message)
 
 ### ⛏ My current project
 
 I'm researching the benefits and challenges of independent musicians using creator coins. 
+Motivation (friends of mine, arts)
+Goal (funding, luck, support)
+Methodology (interviews with independent musicians using Rally coins and with their fans)
 
-### 🏆 My old projects
+### 🏆 My past projects
 
-- App xyz
-- App xyz
-- App xyz
+- AR-based video-calling app to connect machine operators with service technicians ([website](https://www.cdtm.de/mpd/20-1/revis/), [github](https://github.com/chandruscm/Revis))
+- PoC of a quantum-based fault prediction system for electric grids ([webapp](https://electriq-24ff2.web.app/classical))
+- AR-based piano teaching app (guitar hero style) ([github](https://github.com/TLuis/Intonar))
+- SMS-based reminders for patients
+- etc.
 
 ### 💪 My skills
 
-- Product Management: Implemented ...
-- Business: Conducted ...
-- CS: Programmed ...
+- Product: Designed the UI/UX for the projects above
+- Business: Developed business plan for the projects above
+- CS: Used C# and Unity to program the AR-based piano teaching app
+
+### ✒ CV
+- M.Sc. Management at TUM (current)
+- M.Sc., B.Sc. Mechanical Engineering at TUM
+- Honors Degree in Technology Management at CDTM
+- Internships at Alasco (revenue operations), Roland Berger (strategic consulting), Capgemini Invent (IT consulting), among others
