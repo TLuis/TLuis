@@ -27,7 +27,7 @@ Also, as I will be looking for interview partners in the indie music industry us
 
 - Product: Designed the UI/UX for the projects above. Developed many tools used internally at companies
 - Business: Developed the business plan for the projects above. Conducted due dilligences of companies valued at >$100M in strategic consulting and improved sales by >10% of a startup by implementing internal processes and tools
-- CS: Used C# and Unity to program the AR-based piano teaching app
+- CS: Used C# and Unity to program the AR-based piano teaching app. Scraped databases using Python/BeautifulSoup/Selenium. Programmed webapps using MERN-Stack. Implemented Python/Tensorflow neural networks. 
 
 ### ✒ CV
 - M.Sc. Management at TUM (current)
