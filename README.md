@@ -11,7 +11,7 @@ Also, I am looking to collaborate in projects with anyone involved with creator 
 
 ### ⛏ My current project
 
-In a collaborative research project between TUM and Stanford, I'm researching the benefits and challenges of independent musicians using creator coins. I was motivated to pursue this topic because I believe in the extremely high potential of creator coins for artists. I imagine that in the future, every successful artist will be also an entrepreneur, with a creator coin that encourages the community development, gives special perks to the coin holders, and functions as a valuable asset.
+I'm currently working on a collaborative research project between TUM and Stanford. I'm researching the benefits and challenges of independent musicians using creator coins. I was motivated to pursue this topic because I believe in the extremely high potential of creator coins for artists. I imagine that in the future, every successful artist will be also an entrepreneur, with a creator coin that encourages the community development, gives special perks to the coin holders, and functions as a valuable asset.
 
 Also, as I will be looking for interview partners in the indie music industry using creator coins (e.g. [Rally](https://rally.io/)), I would appreciate any leads :)
 
